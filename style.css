@@ -1,0 +1,23 @@
+h1 {
+    font-size: 100px;
+}
+
+.btn-primary {
+    border-color: black;
+    border-width: 2px;
+}
+
+.btn-primary:hover {
+    border-color: black;
+    border-radius: 2px;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+    border-color: black;
+    border-radius: 2px;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+    border-color: black;
+    border-radius: 2px;
+}
