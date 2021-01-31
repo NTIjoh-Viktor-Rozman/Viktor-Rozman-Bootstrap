@@ -1,5 +1,5 @@
 body{
-    background-image: url("universe.jpg");
+    background-image: url("rymnden.png");
     color:black;
 
 }
@@ -25,7 +25,7 @@ h2 {
     border-style: solid;
     border-width: 2px;
     border-color: #343a40;
-    background-color: floralwhite;
+    background-image: url("Repeat.jpg");
 }
 
 .title {
@@ -37,5 +37,5 @@ h2 {
 .list {
     border-width: 2px;
     border-style: solid;
-    background-color: gray;
+    background-color:darkgreen;
 }
